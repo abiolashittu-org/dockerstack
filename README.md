@@ -1,7 +1,8 @@
 ```markdown
 # Dive Deeper into Docker: Creating a Docker Stack
+![image](https://github.com/shittuay/docker-stack/assets/108594160/85810426-c20c-4c4d-ad8c-b1ba684da24b)
 
-![image](https://github.com/shittuay/docker-stack/assets/108594160/0a7f42d8-0e24-4429-9b62-df1e5c5e8aac)
+
 
 
 
