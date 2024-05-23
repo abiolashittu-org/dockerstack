@@ -1,7 +1,8 @@
 ```markdown
 # Dive Deeper into Docker: Creating a Docker Stack
 
-![image](https://github.com/shittuay/docker-stack/assets/108594160/947ceee4-b3aa-4c63-ba6a-70a17ed66f88)
+![image](https://github.com/shittuay/docker-stack/assets/108594160/0a7f42d8-0e24-4429-9b62-df1e5c5e8aac)
+
 
 
 This is a continuation from the last article, where we created a three-tier architecture using AWS and Docker Swarm, featuring:
