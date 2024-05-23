@@ -1,5 +1,5 @@
 
-Dive Deeper into Docker: Creating a Docker Stack
+ Creating a Docker Stack
 
 ![image](https://github.com/abiolashittu-org/docker-swarm-3tier-architecture/assets/108594160/70f274ba-7e6a-4c7b-b65f-7326d12c466c)
 
