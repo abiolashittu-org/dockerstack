@@ -1,10 +1,7 @@
 ```markdown
 # Dive Deeper into Docker: Creating a Docker Stack
-![image](https://github.com/shittuay/docker-stack/assets/108594160/85810426-c20c-4c4d-ad8c-b1ba684da24b)
 
-
-
-
+![image](https://github.com/shittuay/docker-stack/assets/108594160/f9815bd4-555f-4bec-9724-6488c75fa99c)
 
 This is a continuation from the last article, where we created a three-tier architecture using AWS and Docker Swarm, featuring:
 - A service based on the Redis Docker image with 4 replicas.
